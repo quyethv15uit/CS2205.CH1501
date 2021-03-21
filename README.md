@@ -8,9 +8,9 @@
  - Chia sẻ, kết nối: quyethv.15@grad.uit.edu.vn
 
 # Nhóm
- - Hoàng Văn Quyết: https://github.com/quyethv15uit/CS2205.CH1501
- - Đỗ Thị Thùy Linh: https://github.com/dolinh2409/CS2205.CH1501
- - Dương Quốc Khang: https://github.com/duongkhang05031998/CS2205.CH1501
+ - Hoàng Văn Quyết (CH2001032): https://github.com/quyethv15uit/CS2205.CH1501
+ - Đỗ Thị Thùy Linh (CH2002037): https://github.com/dolinh2409/CS2205.CH1501
+ - Dương Quốc Khang (CH2002035): https://github.com/duongkhang05031998/CS2205.CH1501
 
 # Các hoạt động cho môn học 
 
