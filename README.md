@@ -15,7 +15,8 @@
 # Các hoạt động cho môn học 
 
 *  Bài tập quá trình:
-QT01: Tự giới thiệu 
+
+QT01: Tự giới thiệu
 QT02: Tạo github repository
 QT03: Tạo nhóm
 QT04: Đặt câu hỏi về môn học
