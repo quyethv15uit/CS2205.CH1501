@@ -13,12 +13,4 @@
  - Dương Quốc Khang (CH2002035): https://github.com/duongkhang05031998/CS2205.CH1501
 
 # Các hoạt động cho môn học 
-
-*  Bài tập quá trình:
-
-QT01: Tự giới thiệu
-QT02: Tạo github repository
-QT03: Tạo nhóm
-QT04: Đặt câu hỏi về môn học
-QT06: Mong đợi học và làm được gì
-QT07: Góp ý cho phương pháp giảng dạy
+https://classroom.google.com/u/0/c/MjU1MDMxNDMzMDk5
