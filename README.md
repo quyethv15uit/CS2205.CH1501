@@ -4,7 +4,7 @@
  - Họ và Tên: Hoàng Văn Quyết. 
  - Học viên khóa K15, ngành Khoa Học Máy Tính
  - Sở thích: du lịch, chạy bộ.
- - Định hướng nghề nghiệp: Xử lý ảnh và thị giác máy tính trong ngành công nghiệp ô tô.
+ - Định hướng nghề nghiệp: Xử lý ảnh và thị giác máy tính ứng dụng trong ngành công nghiệp ô tô.
  - Chia sẻ, kết nối: quyethv.15@grad.uit.edu.vn
 
 # Nhóm
