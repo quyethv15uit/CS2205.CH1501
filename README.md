@@ -9,7 +9,7 @@
 
 # Nhóm
  - Hoàng Văn Quyết (CH2001032): https://github.com/quyethv15uit/CS2205.CH1501
- - Đỗ Thị Thùy Linh (CH2002037): https://github.com/dolinh2409/CS2205.CH1501
+ - Đỗ Thị Thùy Linh (CH2002037): https://github.com/LinhDo2409/CS2205.CH1501
  - Dương Quốc Khang (CH2002035): https://github.com/duongkhang05031998/CS2205.CH1501
 
 # Các hoạt động cho môn học 
